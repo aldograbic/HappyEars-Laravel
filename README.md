@@ -1,4 +1,4 @@
-# HappyEars
+# HappyEars v1.0
 Laravel web stranica  
 Slušanje i čitanje knjiga za djecu  
 Stvaranje tekstualnih kratkih knjiga i audio knjiga za djecu pomoću ChatGPT API-ja i GTTS API-ja  
