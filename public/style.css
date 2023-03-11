@@ -1,0 +1,170 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #53C0FF;
+    font-family: 'ABeeZee', sans-serif;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 0.01px;
+}
+
+::-webkit-scrollbar-track {
+    background: #FBFBFB;
+}
+
+.arrow {
+    border-radius: 50px;
+    border: none;
+    font-size: xx-large;
+    margin: 0 1vw 0 1vw;
+    background-color: #FED24D;
+    color: #FBFBFB;
+    width: 7.5vw;
+}
+
+.arrow:hover, :disabled {
+    color: black;
+}
+
+.arrow:active {
+    box-shadow: 1px 2px 5px #d4b042;
+}
+
+.stage {
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #FBFBFB;
+    border-radius: 25px;
+    font-size: 45px;
+}
+
+.stories {
+    text-align: left;
+    width: 33.33%;
+    height: 90%;
+}
+
+.stories-main img:hover {
+    width: 110%;
+}
+
+.stories-main {
+    text-align: left;
+    width: 66.66%;
+    height: 90%;
+}
+
+.profile-image {
+    width: 12.5%;
+}
+
+.profile-image:hover {
+    width: 13%;
+}
+
+.stories-story {
+    height: 19%;
+    display: flex;
+    align-items: center;
+}
+
+.stories_story h2 {
+    height: 5vh;
+}
+
+.main {
+    width: 75vw;
+    height: 75vh;
+    display: table;
+}
+
+.login {
+    height: 75vh;
+    font-size: 20px;
+    align-items: center;
+}
+
+.login input {
+    width: 30vw;
+}
+
+.btn {
+    font-size: x-large;
+    margin-top: 3vh;
+}
+
+.navigation {
+    background-color: #56A4F0;
+    width: 100%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    
+}
+
+.navigation ul {
+    display: table;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.navigation li {
+    display: table-cell;
+}
+
+.navigation a {
+    color: #FBFBFB;
+}
+
+.navigation a:hover {
+    color: #FED24D;
+}
+
+.mystories {
+    height: 30vh;
+    width: 30vw;
+    box-shadow: 0 2px 4px -4px rgba(70, 70, 70, 0.75);
+}
+
+.mystories p {
+    width: 30vw;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: #F2F3ED;
+}
+
+audio::-webkit-media-controls-seek-back-button, audio::-webkit-media-controls-seek-forward-button, audio::-webkit-media-controls-timeline,
+audio::-webkit-media-controls-current-time-display, audio::-webkit-media-controls-time-remaining-display {
+  display: none;
+}
+
+audio {
+    width: 20%;
+    background-color: #F2F3ED;
+    margin-left: 1.5%;
+}
+
+.hello {
+    width: 33.33%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.whatsnew {
+    width: 33.33%;
+    height: 75%;
+}
+
+.whatilike {
+    width: 33.33%;
+    height: 75%;
+}
