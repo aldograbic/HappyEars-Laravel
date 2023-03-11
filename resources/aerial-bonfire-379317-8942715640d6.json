@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-bonfire-379317",
+  "private_key_id": "8942715640d67ee8d36d5f1cf07e6bc60b42ba6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCb8bbbXn80MVtM\nvtpdKG285SHmKqoa/d8tbwKPF10nyW+3NSEso0tqI8lMyJILotj4cTXiGPXEPomj\nvqERE1bEXwPdzqmNJlPBhwHFDzQnxuBtyRZXpTmyax/S016b7ITn4a67CluCROXd\naIT+JPb2RNrsUfyafCJbx6XydsiBDAwF6fG7cq2hf5eALGdz45loeV+hG7xG/ieD\nZ4avVAPr/oj5CQAmygAtPn+cIXJYaVaaR4CQWB2GFgItyv2Q5mDCD8fj0/YfHMAk\n21UdR8c0Z09G2xQ4+wK33SHYKonzSQT2IFhf9MDilWyasUq0IrR5C9qDkXN8VpRt\nRGHUvjzvAgMBAAECggEANJZ4IBUHV333eHN55uVt0EACxQAJOi33l3YyijeKShMD\ncehgRhHRKjtkNFkE6xihC3L+BT9+jY27U7VC0qPPZExYXPHGups8rmwNPDtqzqkh\n4NPpjWfiA5ldc3alFnbVwO6Zwmh1QIJkc9w90Qh9IcJJg10Ijr4ixgmXHCNTbTSw\ngYxyz3oRcoC21eIyklSEzJrWeYP878PMts5FwPxBy2JZbfmdeZ0G51eddG67sUob\n/YcMwwA1ZcceAm1YxL/w10d1h15bL1srfTpkMyvGVQo6lvUex27Pjce2HQB4mgXf\njnp9yUEixQi0BFDyfTsMaH7KHv8xGa48MASaBqH7nQKBgQDNB21xgbWGhZAHuo/A\nsuBjKIjQChADV/ffdcjEDPjyAdhK1Sg7scfv47I32USJ/OW6l95Y+HqSA3LWMf3s\n0PDs7NdNcOzbe5t0uTeyrXHY2VFtH176ZO9PfCEHU9XvY1JQbVZoqf5oxudg9o7W\nmjJuMq2BMLQIIC9QvewUuQ26KwKBgQDCtmcu5Kpn5P/ZjTM8mliQJEVitLMpZPta\nS8EBjXETRiks7d6hft2U053dyJ4ir4f5HxLTXo/7vhPjE60au9C26neL76D9I5RC\nLZUOvcrl1pxUvEz6B/esKRx/GW0FPX1liXRNe1PowSTZu8/C9B5A3uWo3Slwv2zp\nUcyoDA66TQKBgH8b2bgDCD0L1M1V1gVLYF1ZJeiENIU+Jkf9R6hzumqexi8ukzDe\n+Os6KKUDJ8C8btgNiyVxdtvLE4jDmX8V0iewdZJnLhCsQyZMJcG6Udh0ckzKpCFs\nLgkDFZ7rVLiCxOdjwaxFp5nhplSwxsE4+4biGDr9rL9U5MCT3ibCy0XdAoGBAJwd\np4l/qel3QHPrtIMIta2Mh11myKeN4cI6LtvRzjHH9UeiyPfvQjYLne2u5quk1X62\nnV9/2C3d7xAIPKjMocGnKIa4cPnFxx9wcKzLG51Af0OpXoayULBmngSCHFkxPhNl\nLCzbjyF1ithQr3n+RSt6C+VivdE6ilZgUZkDYeOZAoGBAJewcpR++2B9CBqulS0m\nw7EogJmKpdWNyP45zHOmVZ/aXZ0wfwVC67aNxt4DHxmZQCm1K3BjN/R0NQPKu6vz\nVJlJf+/uTLoBqpWjWwgMBjlY8TlGxZkl68yR58i94lfo+wy2fcQM73q8jI9DOsZ/\nT7/7BVulktL8xoEORCMPriNg\n-----END PRIVATE KEY-----\n",
+  "client_email": "ttslaravel@aerial-bonfire-379317.iam.gserviceaccount.com",
+  "client_id": "115860883747925746730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ttslaravel%40aerial-bonfire-379317.iam.gserviceaccount.com"
+}
