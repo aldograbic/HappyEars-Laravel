@@ -1,0 +1,6 @@
+
+# --- secrets (added by cleanup) ---
+.env
+.env.*
+!.env.example
+resources/*.json
